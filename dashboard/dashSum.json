@@ -1,0 +1,33 @@
+{
+   "calls":1,
+   "incalls":0,
+   "outcalls":0,
+   "missed":1,
+   "durationivr":95334,
+   "durationring":0,
+   "durationtalk":0,
+   "durationhold":0,
+   "durationidle":0,
+   "rw":0,
+   "rr":0,
+   "ra":0,
+   "hc":0,
+   "hw":1,
+   "hr":0,
+   "ui":0,
+   "ai":0,
+   "mc":0,
+   "sumrating":0,
+   "avgrating":0,
+   "ratedcalls":0,
+   "soap":0,
+   "other":0,
+   "calllist":[
+
+   ],
+   "avgdurationivr":95334,
+   "avgdurationring":0,
+   "avgdurationtalk":0,
+   "avgdurationhold":0,
+   "avgdurationidle":0
+}

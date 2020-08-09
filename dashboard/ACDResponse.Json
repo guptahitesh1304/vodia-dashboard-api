@@ -1,0 +1,364 @@
+{
+   "acds":{
+      "302":{
+         "managers":[
+            "99",
+            "200"
+         ],
+         "redirect":{
+            "waiting":0,
+            "ringing":0,
+            "anonymous":0
+         },
+         "hangup":{
+            "waiting":0,
+            "ringing":0
+         },
+         "exit":{
+            "user":0,
+            "admin":0,
+            "max-calls":0,
+            "application":0,
+            "other":8
+         },
+         "duration":{
+            "sum":{
+               "ivr":0,
+               "ring":209,
+               "talk":1990,
+               "hold":192,
+               "idle":740
+            },
+            "average":{
+               "ivr":0,
+               "ring":17,
+               "talk":165,
+               "hold":16,
+               "idle":61
+            }
+         },
+         "calls":{
+            "count":20,
+            "completed":20
+         }
+      }
+   },
+   "agents":[
+      {
+         "account":"224",
+         "name":"Delnaz Rana",
+         "dnd":true,
+         "login":false,
+         "jumpin":true,
+         "work":{
+            "begin":1594555200.0,
+            "end":1594641600.0,
+            "now":1594608761.870,
+            "segments":[
+
+            ]
+         },
+         "calls":0,
+         "missed":0,
+         "duration":{
+            "talk":0,
+            "hold":0,
+            "idle":0
+         },
+         "average":{
+            "talk":0,
+            "hold":0,
+            "idle":0
+         }
+      },
+      {
+         "account":"226",
+         "name":"Sabrina .",
+         "dnd":false,
+         "login":true,
+         "jumpin":true,
+         "work":{
+            "begin":1594555200.0,
+            "end":1594641600.0,
+            "now":1594608761.870,
+            "segments":[
+               [
+                  1594555200.0,
+                  1594586071.76
+               ],
+               [
+                  1594591828.817,
+                  1594592203.533
+               ],
+               [
+                  1594592496.826,
+                  1594592756.360
+               ],
+               [
+                  1594597028.272,
+                  1594598557.44
+               ],
+               [
+                  1594598558.754,
+                  1594603667.245
+               ],
+               [
+                  1594607968.383,
+                  1594608287.209
+               ]
+            ]
+         },
+         "calls":12,
+         "missed":0,
+         "duration":{
+            "talk":1990,
+            "hold":192,
+            "idle":740
+         },
+         "average":{
+            "talk":165,
+            "hold":16,
+            "idle":61
+         }
+      },
+      {
+         "account":"227",
+         "name":"SULOVE .",
+         "dnd":false,
+         "login":false,
+         "jumpin":true,
+         "work":{
+            "begin":1594555200.0,
+            "end":1594641600.0,
+            "now":1594608761.870,
+            "segments":[
+
+            ]
+         },
+         "calls":0,
+         "missed":0,
+         "duration":{
+            "talk":0,
+            "hold":0,
+            "idle":0
+         },
+         "average":{
+            "talk":0,
+            "hold":0,
+            "idle":0
+         }
+      },
+      {
+         "account":"230",
+         "name":"Connecta_queuemanager/callback .",
+         "dnd":true,
+         "login":false,
+         "jumpin":true,
+         "work":{
+            "begin":1594555200.0,
+            "end":1594641600.0,
+            "now":1594608761.870,
+            "segments":[
+
+            ]
+         },
+         "calls":0,
+         "missed":0,
+         "duration":{
+            "talk":0,
+            "hold":0,
+            "idle":0
+         },
+         "average":{
+            "talk":0,
+            "hold":0,
+            "idle":0
+         }
+      },
+      {
+         "account":"99",
+         "name":"Dashboard .",
+         "dnd":false,
+         "login":false,
+         "jumpin":true,
+         "work":{
+            "begin":1594555200.0,
+            "end":1594641600.0,
+            "now":1594608761.870,
+            "segments":[
+
+            ]
+         },
+         "calls":0,
+         "missed":0,
+         "duration":{
+            "talk":0,
+            "hold":0,
+            "idle":0
+         },
+         "average":{
+            "talk":0,
+            "hold":0,
+            "idle":0
+         }
+      },
+      {
+         "account":"200",
+         "name":"Pravesh-webclient Sharma",
+         "dnd":false,
+         "login":false,
+         "jumpin":true,
+         "work":{
+            "begin":1594555200.0,
+            "end":1594641600.0,
+            "now":1594608761.870,
+            "segments":[
+
+            ]
+         },
+         "calls":0,
+         "missed":0,
+         "duration":{
+            "talk":0,
+            "hold":0,
+            "idle":0
+         },
+         "average":{
+            "talk":0,
+            "hold":0,
+            "idle":0
+         }
+      }
+   ],
+   "current":[
+     {
+         "start":"1594591534.407",
+         "from":"\"Sabrina .\" <sip:226@compassoffices.ak1.cloudpbx.net.nz>",
+         "acd":"302",
+         "agent":"226"
+      }
+
+   ],
+   "history":[
+      {
+         "start":"1594587082.200",
+         "from":"\"Sabrina .\" <sip:226@compassoffices.ak1.cloudpbx.net.nz>",
+         "duration":20,
+         "agent":"226"
+      },
+      {
+         "start":"1594587625.805",
+         "from":"\"Sabrina .\" <sip:226@compassoffices.ak1.cloudpbx.net.nz>",
+         "duration":227,
+         "agent":"226"
+      },
+      {
+         "start":"1594588900.571",
+         "from":"\"Sabrina .\" <sip:226@compassoffices.ak1.cloudpbx.net.nz>",
+         "duration":39,
+         "agent":"226"
+      },
+      {
+         "start":"1594589179.221",
+         "from":"\"Sabrina .\" <sip:226@compassoffices.ak1.cloudpbx.net.nz>",
+         "duration":26,
+         "agent":"226"
+      },
+      {
+         "start":"1594590216.117",
+         "from":"\"Sabrina .\" <sip:226@compassoffices.ak1.cloudpbx.net.nz>",
+         "duration":0,
+         "agent":"226"
+      },
+      {
+         "start":"1594590391.713",
+         "from":"\"0212623096\" <sip:0212623096@compassoffices.ak1.cloudpbx.net.nz>",
+         "duration":420,
+         "agent":"226"
+      },
+      {
+         "start":"1594591296.877",
+         "from":"\"Sabrina .\" <sip:226@compassoffices.ak1.cloudpbx.net.nz>",
+         "duration":25,
+         "agent":"226"
+      },
+      {
+         "start":"1594591534.407",
+         "from":"\"Sabrina .\" <sip:226@compassoffices.ak1.cloudpbx.net.nz>",
+         "duration":5,
+         "agent":"226"
+      },
+      {
+         "start":"1594592242.93",
+         "from":"\"0275614008\" <sip:0275614008@compassoffices.ak1.cloudpbx.net.nz>",
+         "duration":71,
+         "agent":"226"
+      },
+      {
+         "start":"1594595004.589",
+         "from":"\"099652200\" <sip:099652200@compassoffices.ak1.cloudpbx.net.nz>",
+         "duration":757,
+         "agent":"226"
+      },
+      {
+         "start":"1594597826.995",
+         "from":"\"Sabrina .\" <sip:226@compassoffices.ak1.cloudpbx.net.nz>",
+         "duration":114,
+         "agent":"226"
+      },
+      {
+         "start":"1594598271.722",
+         "from":"\"Sabrina .\" <sip:226@compassoffices.ak1.cloudpbx.net.nz>",
+         "duration":284,
+         "agent":"226"
+      },
+      {
+         "start":"1594606266.59",
+         "from":"\"Sabrina .\" <sip:226@compassoffices.ak1.cloudpbx.net.nz>",
+         "duration":0,
+         "agent":"226"
+      },
+      {
+         "start":"1594606279.566",
+         "from":"\"Sabrina .\" <sip:226@compassoffices.ak1.cloudpbx.net.nz>",
+         "duration":0,
+         "agent":"226"
+      },
+      {
+         "start":"1594606318.827",
+         "from":"\"Sabrina .\" <sip:226@compassoffices.ak1.cloudpbx.net.nz>",
+         "duration":0,
+         "agent":"226"
+      },
+      {
+         "start":"1594606328.7",
+         "from":"\"Sabrina .\" <sip:226@compassoffices.ak1.cloudpbx.net.nz>",
+         "duration":0,
+         "agent":"226"
+      },
+      {
+         "start":"1594606359.589",
+         "from":"\"Sabrina .\" <sip:226@compassoffices.ak1.cloudpbx.net.nz>",
+         "duration":0,
+         "agent":"226"
+      },
+      {
+         "start":"1594606471.711",
+         "from":"\"Sabrina .\" <sip:226@compassoffices.ak1.cloudpbx.net.nz>",
+         "duration":0,
+         "agent":"226"
+      },
+      {
+         "start":"1594606519.401",
+         "from":"\"Sabrina .\" <sip:226@compassoffices.ak1.cloudpbx.net.nz>",
+         "duration":0,
+         "agent":"226"
+      },
+      {
+         "start":"1594606916.707",
+         "from":"\"Sabrina .\" <sip:226@compassoffices.ak1.cloudpbx.net.nz>",
+         "duration":2,
+         "agent":"226"
+      }
+   ]
+}
