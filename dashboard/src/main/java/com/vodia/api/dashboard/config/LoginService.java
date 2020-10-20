@@ -38,10 +38,10 @@ public class LoginService {
 		params.put("name", "auth");
 		params.put("value", auth_value);
 	    //params.put("value", "reportx 4fcd1ee9afb05ccc92c3f223d0df3b75");
-		log.info("Request ---"+params.toString());
+		log.debug("Request ---"+params.toString());
 		String url = URLConfig.getURL("API_LOGIN_URL");
 		String API_LOGIN_URL = MessageFormat.format(url, dn);
-		log.info("API_LOGIN_URL"+API_LOGIN_URL);
+		log.debug("API_LOGIN_URL"+API_LOGIN_URL);
 		
 		// to disable DNS check which is getting failed while validating cert
 				myTrustManager.disableSSL();
@@ -56,7 +56,7 @@ public class LoginService {
 	    
 	    String API_TOKEN = response.replaceAll("[^a-zA-Z0-9]", " ");
 	    
-	    log.info("API_TOKEN"+API_TOKEN);
+	    log.debug("API_TOKEN"+API_TOKEN);
 	    request.getSession().setAttribute("token", API_TOKEN);
 	    request.getSession().setAttribute("dn", dn);
 	    String set_cookie = headers.getFirst(HttpHeaders.SET_COOKIE);
@@ -64,10 +64,10 @@ public class LoginService {
 	    map.put("status", "ok");
 	    map.put("token", API_TOKEN);
 	     
-	    log.info("Response: " + response.toString() + "\n");
-	    log.info("Set-Cookie: " + set_cookie + "\n");
-	    log.info("get Token from session: " +  request.getSession().getAttribute("token") + "\n");
-	    log.info("********* FINISH *******");
+	    log.debug("Response: " + response.toString() + "\n");
+	    log.debug("Set-Cookie: " + set_cookie + "\n");
+	    log.debug("get Token from session: " +  request.getSession().getAttribute("token") + "\n");
+	    log.debug("********* FINISH *******");
 	      
 	    return map;
 		

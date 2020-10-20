@@ -15,6 +15,7 @@ public class URLConfig {
 		
 		Properties prop = new Properties();
 
+       // try (InputStream input = DashboardApplication.class.getClassLoader().getResourceAsStream("C:/vodia/property/config.properties")) {
         try (InputStream input = DashboardApplication.class.getClassLoader().getResourceAsStream("config.properties")) {
 
             

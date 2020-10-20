@@ -7,14 +7,21 @@ public class DashboardSummary {
 	private Integer totalCallRecieved;
 	private Integer totalCallAnswered;
 	private Integer totalCallInQueue;
-	private Integer totalATT;
-	private Integer totalAWT;
-	private Integer longestAHT;
-	private Integer longestAWT;
+	private String totalATT;
+	private String totalAWT;
+	private String longestAHT;
+	private String longestAWT;
 	private Integer totalCallAbnd;
+	private Integer totalMissedCalls;
 	
 	
 	
+	public Integer getTotalMissedCalls() {
+		return totalMissedCalls;
+	}
+	public void setTotalMissedCalls(Integer totalMissedCalls) {
+		this.totalMissedCalls = totalMissedCalls;
+	}
 	public Integer getTotalCallAbnd() {
 		return totalCallAbnd;
 	}
@@ -51,28 +58,28 @@ public class DashboardSummary {
 	public void setTotalCallInQueue(Integer totalCallInQueue) {
 		this.totalCallInQueue = totalCallInQueue;
 	}
-	public Integer getTotalATT() {
+	public String getTotalATT() {
 		return totalATT;
 	}
-	public void setTotalATT(Integer totalATT) {
+	public void setTotalATT(String totalATT) {
 		this.totalATT = totalATT;
 	}
-	public Integer getTotalAWT() {
+	public String getTotalAWT() {
 		return totalAWT;
 	}
-	public void setTotalAWT(Integer totalAWT) {
+	public void setTotalAWT(String totalAWT) {
 		this.totalAWT = totalAWT;
 	}
-	public Integer getLongestAHT() {
+	public String getLongestAHT() {
 		return longestAHT;
 	}
-	public void setLongestAHT(Integer longestAHT) {
+	public void setLongestAHT(String longestAHT) {
 		this.longestAHT = longestAHT;
 	}
-	public Integer getLongestAWT() {
+	public String getLongestAWT() {
 		return longestAWT;
 	}
-	public void setLongestAWT(Integer longestAWT) {
+	public void setLongestAWT(String longestAWT) {
 		this.longestAWT = longestAWT;
 	}
 	public DashboardSummary() {

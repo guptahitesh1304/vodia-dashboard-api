@@ -13,6 +13,7 @@ import org.springframework.http.HttpEntity;
 import org.springframework.http.HttpHeaders;
 import org.springframework.http.HttpMethod;
 import org.springframework.http.MediaType;
+import org.springframework.web.bind.annotation.CrossOrigin;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
@@ -46,32 +47,33 @@ public class LoginController {
 	 * //HttpEntity<Credentials> request = new HttpEntity<>(cred); Map<String,
 	 * String> params = new HashMap<String, String>(); params.put("name", "auth");
 	 * params.put("value", "reportx 4fcd1ee9afb05ccc92c3f223d0df3b75");
-	 * log.info("Request ---"+params.toString()); //HttpEntity<String> response =
+	 * log.debug("Request ---"+params.toString()); //HttpEntity<String> response =
 	 * template.exchange(API_LOGIN_URL, HttpMethod.PUT, params, String.class);
 	 * myTrustManager.disableSSL(); RestTemplate restTemplate = new RestTemplate();
 	 * restTemplate.put ( API_LOGIN_URL, params); Token token =
 	 * restTemplate.getForObject(API_LOGIN_URL, Token.class);
-	 * log.info(token.getToken());
+	 * log.debug(token.getToken());
 	 * 
 	 * 
 	 * 
 	 * //HttpHeaders headers = response.getHeaders(); //String set_cookie =
 	 * headers.getFirst(headers.SET_COOKIE);
 	 * 
-	 * //log.info("Response: " + response.toString() + "\n");
-	 * log.info("Set-Cookie: " + token.getToken() + "\n");
-	 * log.info("********* FINISH *******"); //return response.toString(); return
+	 * //log.debug("Response: " + response.toString() + "\n");
+	 * log.debug("Set-Cookie: " + token.getToken() + "\n");
+	 * log.debug("********* FINISH *******"); //return response.toString(); return
 	 * token.toString(); }
 	 */
 	
 	@SuppressWarnings("static-access")
-	@RequestMapping(value = "/login", method = {RequestMethod.GET, RequestMethod.PUT})
+	@CrossOrigin(origins = "*")
+	@RequestMapping(value = "/loginTest/{username}/{password}/{dn}", method = {RequestMethod.GET, RequestMethod.PUT})
 	public HashMap<String, String> VodiaRestAPILogin(HttpServletRequest request, @PathVariable("username") String username, @PathVariable("password") String password) {
 		
 		Map<String, String> params = new HashMap<String, String>();
 		params.put("name", "auth");
-	    params.put("value", "reportx 4fcd1ee9afb05ccc92c3f223d0df3b75");
-		log.info("Request ---"+params.toString());
+	    params.put("value", "reportx z5ler6ti7me8puzo6mg8");
+		log.debug("Request ---"+params.toString());
 		
 		
 		// to disable DNS check which is getting failed while validating cert
@@ -88,7 +90,7 @@ public class LoginController {
 	    
 	    String API_TOKEN = response.replaceAll("[^a-zA-Z0-9]", " ");
 	    
-	    log.info("API_TOKEN"+API_TOKEN);
+	    log.debug("API_TOKEN"+API_TOKEN);
 	    request.getSession().setAttribute("token", API_TOKEN);
 	    String set_cookie = headers.getFirst(headers.SET_COOKIE);
 	    HashMap<String, String> map = new HashMap<>();
@@ -103,10 +105,11 @@ public class LoginController {
 }
 	
 	@SuppressWarnings("static-access")
+	@CrossOrigin(origins = "*")
 	@RequestMapping(value = "/login/{username}/{password}/{dn}", method = {RequestMethod.GET, RequestMethod.PUT})
 	public HashMap<String, String> VodiaRestAPILogin(HttpServletRequest request, @PathVariable("username") String username, @PathVariable("password") String password, @PathVariable("dn") String dn) {
 		
-		log.info("getting login service");
+		log.debug("getting login service");
 		return ls.VodiaRestAPILogin(request, username, password, dn);
 		
 }

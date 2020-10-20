@@ -5,6 +5,7 @@ import java.util.List;
 public class QueuePerformanceTable {
 	
 	private String name;
+	private String displayName;
 	private int callsInWaiting;
 	private int agentsForQueue;
 	private String awt;
@@ -13,9 +14,22 @@ public class QueuePerformanceTable {
 	private int totalNumberOfCalls;
 	private String SLinPercentage;
 	private int loggedInAgents;
+	private int call_back_request;
 	
 	
 	
+	public int getCall_back_request() {
+		return call_back_request;
+	}
+	public void setCall_back_request(int call_back_request) {
+		this.call_back_request = call_back_request;
+	}
+	public String getDisplayName() {
+		return displayName;
+	}
+	public void setDisplayName(String displayName) {
+		this.displayName = displayName;
+	}
 	public int getLoggedInAgents() {
 		return loggedInAgents;
 	}
@@ -70,10 +84,11 @@ public class QueuePerformanceTable {
 	public void setSLinPercentage(String sLinPercentage) {
 		SLinPercentage = sLinPercentage;
 	}
-	public QueuePerformanceTable(String name, int callsInWaiting, int agentsForQueue, String awt, String aht,
+	public QueuePerformanceTable(String name, String display_name, int callsInWaiting, int agentsForQueue, String awt, String aht,
 			int totalAbandonedCalls, int totalNumberOfCalls, String sLinPercentage) {
 		super();
 		this.name = name;
+		this.displayName = display_name;
 		this.callsInWaiting = callsInWaiting;
 		this.agentsForQueue = agentsForQueue;
 		this.awt = awt;
@@ -81,6 +96,24 @@ public class QueuePerformanceTable {
 		this.totalAbandonedCalls = totalAbandonedCalls;
 		this.totalNumberOfCalls = totalNumberOfCalls;
 		SLinPercentage = sLinPercentage;
+	}
+	
+	
+	public QueuePerformanceTable(String name, String displayName, int callsInWaiting, int agentsForQueue, String awt,
+			String aht, int totalAbandonedCalls, int totalNumberOfCalls, String sLinPercentage, int loggedInAgents,
+			int call_back_request) {
+		super();
+		this.name = name;
+		this.displayName = displayName;
+		this.callsInWaiting = callsInWaiting;
+		this.agentsForQueue = agentsForQueue;
+		this.awt = awt;
+		this.aht = aht;
+		this.totalAbandonedCalls = totalAbandonedCalls;
+		this.totalNumberOfCalls = totalNumberOfCalls;
+		SLinPercentage = sLinPercentage;
+		this.loggedInAgents = loggedInAgents;
+		this.call_back_request = call_back_request;
 	}
 	public QueuePerformanceTable() {
 		// TODO Auto-generated constructor stub
