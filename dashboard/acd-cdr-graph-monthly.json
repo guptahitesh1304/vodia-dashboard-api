@@ -1,0 +1,13 @@
+{
+   "totalInboundCalls":2724,
+   "totalOutboundCalls":404,
+   "totalCallRecieved":5576,
+   "totalCallAnswered":3128,
+   "totalCallInQueue":3,
+   "totalATT":"61:36:57",
+   "totalAWT":"33:27:30",
+   "longestAHT":"85:16:36",
+   "longestAWT":"132:41:49",
+   "totalCallAbnd":1030,
+   "totalMissedCalls":2448
+}

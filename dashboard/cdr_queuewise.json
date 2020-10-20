@@ -1,0 +1,1302 @@
+[
+   {
+      "start":1598071240.499,
+      "from":"\"0273481295\" <sip:0273481295@compassoffices.ak1.cloudpbx.net.nz>",
+      "to":"\"6499653944\" <sip:6499653944@compassoffices.ak1.cloudpbx.net.nz>",
+      "agent":"",
+      "rating":"",
+      "duration":{
+         "ivr":13,
+         "ring":0,
+         "talk":0,
+         "hold":0
+      }
+   },
+   {
+      "start":1598070912.838,
+      "from":"\"0211647196\" <sip:0211647196@compassoffices.ak1.cloudpbx.net.nz>",
+      "to":"\"6499653944\" <sip:6499653944@compassoffices.ak1.cloudpbx.net.nz>",
+      "agent":"",
+      "rating":"",
+      "duration":{
+         "ivr":5,
+         "ring":0,
+         "talk":0,
+         "hold":0
+      }
+   },
+   {
+      "start":1598070265.830,
+      "from":"\"02040228326\" <sip:02040228326@compassoffices.ak1.cloudpbx.net.nz>",
+      "to":"\"6499653944\" <sip:6499653944@compassoffices.ak1.cloudpbx.net.nz>",
+      "agent":"",
+      "rating":"",
+      "duration":{
+         "ivr":7,
+         "ring":0,
+         "talk":0,
+         "hold":0
+      }
+   },
+   {
+      "start":1598070201.876,
+      "from":"\"02040228326\" <sip:02040228326@compassoffices.ak1.cloudpbx.net.nz>",
+      "to":"\"6499653944\" <sip:6499653944@compassoffices.ak1.cloudpbx.net.nz>",
+      "agent":"\"Anmol Chugh\" <sip:223@compassoffices.ak1.cloudpbx.net.nz>",
+      "rating":"",
+      "duration":{
+         "ivr":3,
+         "ring":5,
+         "talk":40,
+         "hold":0
+      }
+   },
+   {
+      "start":1598065449.88,
+      "from":"\"0226456750\" <sip:0226456750@compassoffices.ak1.cloudpbx.net.nz>",
+      "to":"\"6499653944\" <sip:6499653944@compassoffices.ak1.cloudpbx.net.nz>",
+      "agent":"\"Anmol Chugh\" <sip:223@compassoffices.ak1.cloudpbx.net.nz>",
+      "rating":"",
+      "duration":{
+         "ivr":11,
+         "ring":1,
+         "talk":117,
+         "hold":0
+      }
+   },
+   {
+      "start":1598063363.863,
+      "from":"\"NAKUL\" <sip:211@compassoffices.ak1.cloudpbx.net.nz>",
+      "to":"\"206\" <sip:206@compassoffices.ak1.cloudpbx.net.nz>",
+      "agent":"\"NAKUL\" <sip:211@compassoffices.ak1.cloudpbx.net.nz>",
+      "rating":"",
+      "duration":{
+         "ivr":0,
+         "ring":0,
+         "talk":0,
+         "hold":0
+      }
+   },
+   {
+      "start":1598059144.13,
+      "from":"\"0211808204\" <sip:0211808204@compassoffices.ak1.cloudpbx.net.nz>",
+      "to":"\"6499653944\" <sip:6499653944@compassoffices.ak1.cloudpbx.net.nz>",
+      "agent":"",
+      "rating":"",
+      "duration":{
+         "ivr":0,
+         "ring":1,
+         "talk":0,
+         "hold":0
+      }
+   },
+   {
+      "start":1598059133.995,
+      "from":"\"0211808204\" <sip:0211808204@compassoffices.ak1.cloudpbx.net.nz>",
+      "to":"\"6499653944\" <sip:6499653944@compassoffices.ak1.cloudpbx.net.nz>",
+      "agent":"",
+      "rating":"",
+      "duration":{
+         "ivr":10,
+         "ring":0,
+         "talk":0,
+         "hold":0
+      }
+   },
+   {
+      "start":1598056683.481,
+      "from":"\"Anmol Chugh\" <sip:223@compassoffices.ak1.cloudpbx.net.nz>",
+      "to":"\"0224565969\" <sip:0224565969@compassoffices.ak1.cloudpbx.net.nz>",
+      "agent":"\"Anmol Chugh\" <sip:223@compassoffices.ak1.cloudpbx.net.nz>",
+      "rating":"",
+      "duration":{
+         "ivr":0,
+         "ring":9,
+         "talk":32,
+         "hold":0
+      }
+   },
+   {
+      "start":1598052800.4,
+      "from":"\"0220440376\" <sip:0220440376@compassoffices.ak1.cloudpbx.net.nz>",
+      "to":"\"6499653944\" <sip:6499653944@compassoffices.ak1.cloudpbx.net.nz>",
+      "agent":"",
+      "rating":"",
+      "duration":{
+         "ivr":6,
+         "ring":0,
+         "talk":0,
+         "hold":0
+      }
+   },
+   {
+      "start":1598052226.795,
+      "from":"\"0276820965\" <sip:0276820965@compassoffices.ak1.cloudpbx.net.nz>",
+      "to":"\"6499653944\" <sip:6499653944@compassoffices.ak1.cloudpbx.net.nz>",
+      "agent":"",
+      "rating":"",
+      "duration":{
+         "ivr":1,
+         "ring":0,
+         "talk":0,
+         "hold":0
+      }
+   },
+   {
+      "start":1598052083.338,
+      "from":"\"0276820965\" <sip:0276820965@compassoffices.ak1.cloudpbx.net.nz>",
+      "to":"\"6499653944\" <sip:6499653944@compassoffices.ak1.cloudpbx.net.nz>",
+      "agent":"",
+      "rating":"",
+      "duration":{
+         "ivr":0,
+         "ring":1,
+         "talk":0,
+         "hold":0
+      }
+   },
+   {
+      "start":1598052073.332,
+      "from":"\"0276820965\" <sip:0276820965@compassoffices.ak1.cloudpbx.net.nz>",
+      "to":"\"6499653944\" <sip:6499653944@compassoffices.ak1.cloudpbx.net.nz>",
+      "agent":"",
+      "rating":"",
+      "duration":{
+         "ivr":10,
+         "ring":0,
+         "talk":0,
+         "hold":0
+      }
+   },
+   {
+      "start":1598051139.613,
+      "from":"\"02102281345\" <sip:02102281345@compassoffices.ak1.cloudpbx.net.nz>",
+      "to":"\"6499653944\" <sip:6499653944@compassoffices.ak1.cloudpbx.net.nz>",
+      "agent":"",
+      "rating":"",
+      "duration":{
+         "ivr":7,
+         "ring":0,
+         "talk":0,
+         "hold":0
+      }
+   },
+   {
+      "start":1598050138.493,
+      "from":"\"0212094108\" <sip:0212094108@compassoffices.ak1.cloudpbx.net.nz>",
+      "to":"\"6499653944\" <sip:6499653944@compassoffices.ak1.cloudpbx.net.nz>",
+      "agent":"",
+      "rating":"",
+      "duration":{
+         "ivr":2,
+         "ring":0,
+         "talk":0,
+         "hold":0
+      }
+   },
+   {
+      "start":1598047260.929,
+      "from":"\"0220378470\" <sip:0220378470@compassoffices.ak1.cloudpbx.net.nz>",
+      "to":"\"6499653944\" <sip:6499653944@compassoffices.ak1.cloudpbx.net.nz>",
+      "agent":"",
+      "rating":"",
+      "duration":{
+         "ivr":10,
+         "ring":0,
+         "talk":0,
+         "hold":0
+      }
+   },
+   {
+      "start":1598047136.60,
+      "from":"\"Anmol Chugh\" <sip:223@compassoffices.ak1.cloudpbx.net.nz>",
+      "to":"\"094141777\" <sip:094141777@compassoffices.ak1.cloudpbx.net.nz>",
+      "agent":"\"Anmol Chugh\" <sip:223@compassoffices.ak1.cloudpbx.net.nz>",
+      "rating":"",
+      "duration":{
+         "ivr":0,
+         "ring":2,
+         "talk":1,
+         "hold":0
+      }
+   },
+   {
+      "start":1598047120.752,
+      "from":"\"Anmol Chugh\" <sip:223@compassoffices.ak1.cloudpbx.net.nz>",
+      "to":"\"094141777\" <sip:094141777@compassoffices.ak1.cloudpbx.net.nz>",
+      "agent":"\"Anmol Chugh\" <sip:223@compassoffices.ak1.cloudpbx.net.nz>",
+      "rating":"",
+      "duration":{
+         "ivr":0,
+         "ring":3,
+         "talk":1,
+         "hold":0
+      }
+   },
+   {
+      "start":1598046995.850,
+      "from":"\"02102281345\" <sip:02102281345@compassoffices.ak1.cloudpbx.net.nz>",
+      "to":"\"6499653944\" <sip:6499653944@compassoffices.ak1.cloudpbx.net.nz>",
+      "agent":"",
+      "rating":"",
+      "duration":{
+         "ivr":10,
+         "ring":0,
+         "talk":0,
+         "hold":0
+      }
+   },
+   {
+      "start":1598046993.585,
+      "from":"\"Anmol Chugh\" <sip:223@compassoffices.ak1.cloudpbx.net.nz>",
+      "to":"\"0212727790\" <sip:0212727790@compassoffices.ak1.cloudpbx.net.nz>",
+      "agent":"\"Anmol Chugh\" <sip:223@compassoffices.ak1.cloudpbx.net.nz>",
+      "rating":"",
+      "duration":{
+         "ivr":0,
+         "ring":37,
+         "talk":5,
+         "hold":0
+      }
+   },
+   {
+      "start":1598045322.164,
+      "from":"\"Anmol Chugh\" <sip:223@compassoffices.ak1.cloudpbx.net.nz>",
+      "to":"\"0275105888\" <sip:0275105888@compassoffices.ak1.cloudpbx.net.nz>",
+      "agent":"\"Anmol Chugh\" <sip:223@compassoffices.ak1.cloudpbx.net.nz>",
+      "rating":"",
+      "duration":{
+         "ivr":0,
+         "ring":13,
+         "talk":159,
+         "hold":0
+      }
+   },
+   {
+      "start":1598045458.686,
+      "from":"\"02102775033\" <sip:02102775033@compassoffices.ak1.cloudpbx.net.nz>",
+      "to":"\"6499653944\" <sip:6499653944@compassoffices.ak1.cloudpbx.net.nz>",
+      "agent":"",
+      "rating":"",
+      "duration":{
+         "ivr":1,
+         "ring":0,
+         "talk":0,
+         "hold":0
+      }
+   },
+   {
+      "start":1598045057.517,
+      "from":"\"Anmol Chugh\" <sip:223@compassoffices.ak1.cloudpbx.net.nz>",
+      "to":"\"067580198\" <sip:067580198@compassoffices.ak1.cloudpbx.net.nz>",
+      "agent":"\"Anmol Chugh\" <sip:223@compassoffices.ak1.cloudpbx.net.nz>",
+      "rating":"",
+      "duration":{
+         "ivr":0,
+         "ring":1,
+         "talk":0,
+         "hold":0
+      }
+   },
+   {
+      "start":1598045042.239,
+      "from":"\"Anmol Chugh\" <sip:223@compassoffices.ak1.cloudpbx.net.nz>",
+      "to":"\"067580198\" <sip:067580198@compassoffices.ak1.cloudpbx.net.nz>",
+      "agent":"\"Anmol Chugh\" <sip:223@compassoffices.ak1.cloudpbx.net.nz>",
+      "rating":"",
+      "duration":{
+         "ivr":0,
+         "ring":1,
+         "talk":0,
+         "hold":0
+      }
+   },
+   {
+      "start":1598044777.353,
+      "from":"\"0220855695\" <sip:0220855695@compassoffices.ak1.cloudpbx.net.nz>",
+      "to":"\"6499653944\" <sip:6499653944@compassoffices.ak1.cloudpbx.net.nz>",
+      "agent":"",
+      "rating":"",
+      "duration":{
+         "ivr":0,
+         "ring":1,
+         "talk":0,
+         "hold":0
+      }
+   },
+   {
+      "start":1598044767.348,
+      "from":"\"0220855695\" <sip:0220855695@compassoffices.ak1.cloudpbx.net.nz>",
+      "to":"\"6499653944\" <sip:6499653944@compassoffices.ak1.cloudpbx.net.nz>",
+      "agent":"",
+      "rating":"",
+      "duration":{
+         "ivr":10,
+         "ring":0,
+         "talk":0,
+         "hold":0
+      }
+   },
+   {
+      "start":1598043581.21,
+      "from":"\"02102719464\" <sip:02102719464@compassoffices.ak1.cloudpbx.net.nz>",
+      "to":"\"6499653944\" <sip:6499653944@compassoffices.ak1.cloudpbx.net.nz>",
+      "agent":"",
+      "rating":"",
+      "duration":{
+         "ivr":1,
+         "ring":0,
+         "talk":0,
+         "hold":0
+      }
+   },
+   {
+      "start":1598043547.132,
+      "from":"\"02102719464\" <sip:02102719464@compassoffices.ak1.cloudpbx.net.nz>",
+      "to":"\"6499653944\" <sip:6499653944@compassoffices.ak1.cloudpbx.net.nz>",
+      "agent":"",
+      "rating":"",
+      "duration":{
+         "ivr":8,
+         "ring":0,
+         "talk":0,
+         "hold":0
+      }
+   },
+   {
+      "start":1598043319.696,
+      "from":"\"02102719464\" <sip:02102719464@compassoffices.ak1.cloudpbx.net.nz>",
+      "to":"\"6499653944\" <sip:6499653944@compassoffices.ak1.cloudpbx.net.nz>",
+      "agent":"",
+      "rating":"",
+      "duration":{
+         "ivr":10,
+         "ring":0,
+         "talk":0,
+         "hold":0
+      }
+   },
+   {
+      "start":1598040877.87,
+      "from":"\"0220112526\" <sip:0220112526@compassoffices.ak1.cloudpbx.net.nz>",
+      "to":"\"6499653944\" <sip:6499653944@compassoffices.ak1.cloudpbx.net.nz>",
+      "agent":"",
+      "rating":"",
+      "duration":{
+         "ivr":0,
+         "ring":1,
+         "talk":0,
+         "hold":0
+      }
+   },
+   {
+      "start":1598040867.79,
+      "from":"\"0220112526\" <sip:0220112526@compassoffices.ak1.cloudpbx.net.nz>",
+      "to":"\"6499653944\" <sip:6499653944@compassoffices.ak1.cloudpbx.net.nz>",
+      "agent":"",
+      "rating":"",
+      "duration":{
+         "ivr":10,
+         "ring":0,
+         "talk":0,
+         "hold":0
+      }
+   },
+   {
+      "start":1597994704.410,
+      "from":"\"0211647196\" <sip:0211647196@compassoffices.ak1.cloudpbx.net.nz>",
+      "to":"\"6499653944\" <sip:6499653944@compassoffices.ak1.cloudpbx.net.nz>",
+      "agent":"",
+      "rating":"",
+      "duration":{
+         "ivr":5,
+         "ring":0,
+         "talk":0,
+         "hold":0
+      }
+   },
+   {
+      "start":1597993221.698,
+      "from":"\"02102281345\" <sip:02102281345@compassoffices.ak1.cloudpbx.net.nz>",
+      "to":"\"6499653944\" <sip:6499653944@compassoffices.ak1.cloudpbx.net.nz>",
+      "agent":"",
+      "rating":"",
+      "duration":{
+         "ivr":8,
+         "ring":0,
+         "talk":0,
+         "hold":0
+      }
+   },
+   {
+      "start":1597989762.655,
+      "from":"\"021869050\" <sip:021869050@compassoffices.ak1.cloudpbx.net.nz>",
+      "to":"\"6499653944\" <sip:6499653944@compassoffices.ak1.cloudpbx.net.nz>",
+      "agent":"",
+      "rating":"",
+      "duration":{
+         "ivr":11,
+         "ring":0,
+         "talk":0,
+         "hold":0
+      }
+   },
+   {
+      "start":1597989139.781,
+      "from":"\"0220112526\" <sip:0220112526@compassoffices.ak1.cloudpbx.net.nz>",
+      "to":"\"6499653944\" <sip:6499653944@compassoffices.ak1.cloudpbx.net.nz>",
+      "agent":"",
+      "rating":"",
+      "duration":{
+         "ivr":12,
+         "ring":0,
+         "talk":0,
+         "hold":0
+      }
+   },
+   {
+      "start":1597987831.27,
+      "from":"\"0211775851\" <sip:0211775851@compassoffices.ak1.cloudpbx.net.nz>",
+      "to":"\"6499653944\" <sip:6499653944@compassoffices.ak1.cloudpbx.net.nz>",
+      "agent":"",
+      "rating":"",
+      "duration":{
+         "ivr":9,
+         "ring":0,
+         "talk":0,
+         "hold":0
+      }
+   },
+   {
+      "start":1597986539.501,
+      "from":"\"02102775033\" <sip:02102775033@compassoffices.ak1.cloudpbx.net.nz>",
+      "to":"\"6499653944\" <sip:6499653944@compassoffices.ak1.cloudpbx.net.nz>",
+      "agent":"\"Anmol Chugh\" <sip:223@compassoffices.ak1.cloudpbx.net.nz>",
+      "rating":"",
+      "duration":{
+         "ivr":4,
+         "ring":3,
+         "talk":9,
+         "hold":0
+      }
+   },
+   {
+      "start":1597986120.756,
+      "from":"\"0275482003\" <sip:0275482003@compassoffices.ak1.cloudpbx.net.nz>",
+      "to":"\"6499653944\" <sip:6499653944@compassoffices.ak1.cloudpbx.net.nz>",
+      "agent":"",
+      "rating":"",
+      "duration":{
+         "ivr":3,
+         "ring":0,
+         "talk":0,
+         "hold":0
+      }
+   },
+   {
+      "start":1597985973.240,
+      "from":"\"0275482003\" <sip:0275482003@compassoffices.ak1.cloudpbx.net.nz>",
+      "to":"\"6499653944\" <sip:6499653944@compassoffices.ak1.cloudpbx.net.nz>",
+      "agent":"\"Anmol Chugh\" <sip:223@compassoffices.ak1.cloudpbx.net.nz>",
+      "rating":"",
+      "duration":{
+         "ivr":3,
+         "ring":6,
+         "talk":54,
+         "hold":0
+      }
+   },
+   {
+      "start":1597985103.737,
+      "from":"\"0273575777\" <sip:0273575777@compassoffices.ak1.cloudpbx.net.nz>",
+      "to":"\"6499653944\" <sip:6499653944@compassoffices.ak1.cloudpbx.net.nz>",
+      "agent":"",
+      "rating":"",
+      "duration":{
+         "ivr":3,
+         "ring":2,
+         "talk":0,
+         "hold":0
+      }
+   },
+   {
+      "start":1597985066.256,
+      "from":"\"0273575777\" <sip:0273575777@compassoffices.ak1.cloudpbx.net.nz>",
+      "to":"\"6499653944\" <sip:6499653944@compassoffices.ak1.cloudpbx.net.nz>",
+      "agent":"\"Anmol Chugh\" <sip:223@compassoffices.ak1.cloudpbx.net.nz>",
+      "rating":"",
+      "duration":{
+         "ivr":0,
+         "ring":4,
+         "talk":11,
+         "hold":0
+      }
+   },
+   {
+      "start":1597984477.125,
+      "from":"\"02108465539\" <sip:02108465539@compassoffices.ak1.cloudpbx.net.nz>",
+      "to":"\"6499653944\" <sip:6499653944@compassoffices.ak1.cloudpbx.net.nz>",
+      "agent":"",
+      "rating":"",
+      "duration":{
+         "ivr":0,
+         "ring":0,
+         "talk":0,
+         "hold":0
+      }
+   },
+   {
+      "start":1597984427.546,
+      "from":"\"02108465539\" <sip:02108465539@compassoffices.ak1.cloudpbx.net.nz>",
+      "to":"\"6499653944\" <sip:6499653944@compassoffices.ak1.cloudpbx.net.nz>",
+      "agent":"\"Anmol Chugh\" <sip:223@compassoffices.ak1.cloudpbx.net.nz>",
+      "rating":"",
+      "duration":{
+         "ivr":6,
+         "ring":2,
+         "talk":25,
+         "hold":0
+      }
+   },
+   {
+      "start":1597984192.42,
+      "from":"\"02108465539\" <sip:02108465539@compassoffices.ak1.cloudpbx.net.nz>",
+      "to":"\"6499653944\" <sip:6499653944@compassoffices.ak1.cloudpbx.net.nz>",
+      "agent":"",
+      "rating":"",
+      "duration":{
+         "ivr":3,
+         "ring":0,
+         "talk":0,
+         "hold":0
+      }
+   },
+   {
+      "start":1597982735.273,
+      "from":"\"02041732454\" <sip:02041732454@compassoffices.ak1.cloudpbx.net.nz>",
+      "to":"\"6499653944\" <sip:6499653944@compassoffices.ak1.cloudpbx.net.nz>",
+      "agent":"",
+      "rating":"",
+      "duration":{
+         "ivr":0,
+         "ring":1,
+         "talk":0,
+         "hold":0
+      }
+   },
+   {
+      "start":1597982725.266,
+      "from":"\"02041732454\" <sip:02041732454@compassoffices.ak1.cloudpbx.net.nz>",
+      "to":"\"6499653944\" <sip:6499653944@compassoffices.ak1.cloudpbx.net.nz>",
+      "agent":"",
+      "rating":"",
+      "duration":{
+         "ivr":10,
+         "ring":0,
+         "talk":0,
+         "hold":0
+      }
+   },
+   {
+      "start":1597981568.289,
+      "from":"\"0220855695\" <sip:0220855695@compassoffices.ak1.cloudpbx.net.nz>",
+      "to":"\"6499653944\" <sip:6499653944@compassoffices.ak1.cloudpbx.net.nz>",
+      "agent":"",
+      "rating":"",
+      "duration":{
+         "ivr":10,
+         "ring":0,
+         "talk":0,
+         "hold":0
+      }
+   },
+   {
+      "start":1597980513.166,
+      "from":"\"02041109702\" <sip:02041109702@compassoffices.ak1.cloudpbx.net.nz>",
+      "to":"\"6499653944\" <sip:6499653944@compassoffices.ak1.cloudpbx.net.nz>",
+      "agent":"",
+      "rating":"",
+      "duration":{
+         "ivr":10,
+         "ring":0,
+         "talk":0,
+         "hold":0
+      }
+   },
+   {
+      "start":1597978912.828,
+      "from":"\"0211558290\" <sip:0211558290@compassoffices.ak1.cloudpbx.net.nz>",
+      "to":"\"6499653944\" <sip:6499653944@compassoffices.ak1.cloudpbx.net.nz>",
+      "agent":"",
+      "rating":"",
+      "duration":{
+         "ivr":7,
+         "ring":0,
+         "talk":0,
+         "hold":0
+      }
+   },
+   {
+      "start":1597978728.896,
+      "from":"\"0274581513\" <sip:0274581513@compassoffices.ak1.cloudpbx.net.nz>",
+      "to":"\"6499653944\" <sip:6499653944@compassoffices.ak1.cloudpbx.net.nz>",
+      "agent":"",
+      "rating":"",
+      "duration":{
+         "ivr":6,
+         "ring":0,
+         "talk":0,
+         "hold":0
+      }
+   },
+   {
+      "start":1597978542.940,
+      "from":"\"0273575777\" <sip:0273575777@compassoffices.ak1.cloudpbx.net.nz>",
+      "to":"\"6499653944\" <sip:6499653944@compassoffices.ak1.cloudpbx.net.nz>",
+      "agent":"",
+      "rating":"",
+      "duration":{
+         "ivr":8,
+         "ring":0,
+         "talk":0,
+         "hold":0
+      }
+   },
+   {
+      "start":1597978234.713,
+      "from":"\"0225016070\" <sip:0225016070@compassoffices.ak1.cloudpbx.net.nz>",
+      "to":"\"6499653944\" <sip:6499653944@compassoffices.ak1.cloudpbx.net.nz>",
+      "agent":"",
+      "rating":"",
+      "duration":{
+         "ivr":3,
+         "ring":0,
+         "talk":0,
+         "hold":0
+      }
+   },
+   {
+      "start":1597978186.166,
+      "from":"\"0225016070\" <sip:0225016070@compassoffices.ak1.cloudpbx.net.nz>",
+      "to":"\"6499653944\" <sip:6499653944@compassoffices.ak1.cloudpbx.net.nz>",
+      "agent":"",
+      "rating":"",
+      "duration":{
+         "ivr":0,
+         "ring":1,
+         "talk":0,
+         "hold":0
+      }
+   },
+   {
+      "start":1597978176.159,
+      "from":"\"0225016070\" <sip:0225016070@compassoffices.ak1.cloudpbx.net.nz>",
+      "to":"\"6499653944\" <sip:6499653944@compassoffices.ak1.cloudpbx.net.nz>",
+      "agent":"",
+      "rating":"",
+      "duration":{
+         "ivr":10,
+         "ring":0,
+         "talk":0,
+         "hold":0
+      }
+   },
+   {
+      "start":1597976916.747,
+      "from":"\"0224733776\" <sip:0224733776@compassoffices.ak1.cloudpbx.net.nz>",
+      "to":"\"6499653944\" <sip:6499653944@compassoffices.ak1.cloudpbx.net.nz>",
+      "agent":"\"Aileen Sacayanan\" <sip:208@compassoffices.ak1.cloudpbx.net.nz>",
+      "rating":"",
+      "duration":{
+         "ivr":6,
+         "ring":3,
+         "talk":1136,
+         "hold":411
+      }
+   },
+   {
+      "start":1597977966.699,
+      "from":"\"0212675388\" <sip:0212675388@compassoffices.ak1.cloudpbx.net.nz>",
+      "to":"\"6499653944\" <sip:6499653944@compassoffices.ak1.cloudpbx.net.nz>",
+      "agent":"",
+      "rating":"",
+      "duration":{
+         "ivr":3,
+         "ring":0,
+         "talk":0,
+         "hold":0
+      }
+   },
+   {
+      "start":1597977877.366,
+      "from":"\"0273131119\" <sip:0273131119@compassoffices.ak1.cloudpbx.net.nz>",
+      "to":"\"6499653944\" <sip:6499653944@compassoffices.ak1.cloudpbx.net.nz>",
+      "agent":"",
+      "rating":"",
+      "duration":{
+         "ivr":8,
+         "ring":0,
+         "talk":0,
+         "hold":0
+      }
+   },
+   {
+      "start":1597976152.123,
+      "from":"\"0225487609\" <sip:0225487609@compassoffices.ak1.cloudpbx.net.nz>",
+      "to":"\"6499653944\" <sip:6499653944@compassoffices.ak1.cloudpbx.net.nz>",
+      "agent":"\"Kelsen  Ignacio\" <sip:203@compassoffices.ak1.cloudpbx.net.nz>",
+      "rating":"",
+      "duration":{
+         "ivr":3,
+         "ring":11,
+         "talk":49,
+         "hold":0
+      }
+   },
+   {
+      "start":1597975633.512,
+      "from":"\"0211702858\" <sip:0211702858@compassoffices.ak1.cloudpbx.net.nz>",
+      "to":"\"6499653944\" <sip:6499653944@compassoffices.ak1.cloudpbx.net.nz>",
+      "agent":"",
+      "rating":"",
+      "duration":{
+         "ivr":3,
+         "ring":3,
+         "talk":0,
+         "hold":0
+      }
+   },
+   {
+      "start":1597974884.687,
+      "from":"\"0224935745\" <sip:0224935745@compassoffices.ak1.cloudpbx.net.nz>",
+      "to":"\"6499653944\" <sip:6499653944@compassoffices.ak1.cloudpbx.net.nz>",
+      "agent":"\"Kelsen  Ignacio\" <sip:203@compassoffices.ak1.cloudpbx.net.nz>",
+      "rating":"",
+      "duration":{
+         "ivr":3,
+         "ring":14,
+         "talk":174,
+         "hold":0
+      }
+   },
+   {
+      "start":1597974928.127,
+      "from":"\"0223703778\" <sip:0223703778@compassoffices.ak1.cloudpbx.net.nz>",
+      "to":"\"6499653944\" <sip:6499653944@compassoffices.ak1.cloudpbx.net.nz>",
+      "agent":"",
+      "rating":"",
+      "duration":{
+         "ivr":8,
+         "ring":0,
+         "talk":0,
+         "hold":0
+      }
+   },
+   {
+      "start":1597974420.297,
+      "from":"\"0211122955\" <sip:0211122955@compassoffices.ak1.cloudpbx.net.nz>",
+      "to":"\"6499653944\" <sip:6499653944@compassoffices.ak1.cloudpbx.net.nz>",
+      "agent":"",
+      "rating":"",
+      "duration":{
+         "ivr":9,
+         "ring":0,
+         "talk":0,
+         "hold":0
+      }
+   },
+   {
+      "start":1597974264.234,
+      "from":"\"02108190085\" <sip:02108190085@compassoffices.ak1.cloudpbx.net.nz>",
+      "to":"\"6499653944\" <sip:6499653944@compassoffices.ak1.cloudpbx.net.nz>",
+      "agent":"",
+      "rating":"",
+      "duration":{
+         "ivr":3,
+         "ring":1,
+         "talk":0,
+         "hold":0
+      }
+   },
+   {
+      "start":1597973900.391,
+      "from":"\"02102775033\" <sip:02102775033@compassoffices.ak1.cloudpbx.net.nz>",
+      "to":"\"6499653944\" <sip:6499653944@compassoffices.ak1.cloudpbx.net.nz>",
+      "agent":"",
+      "rating":"",
+      "duration":{
+         "ivr":7,
+         "ring":0,
+         "talk":0,
+         "hold":0
+      }
+   },
+   {
+      "start":1597973437.414,
+      "from":"\"02102499738\" <sip:02102499738@compassoffices.ak1.cloudpbx.net.nz>",
+      "to":"\"6499653944\" <sip:6499653944@compassoffices.ak1.cloudpbx.net.nz>",
+      "agent":"\"Anmol Chugh\" <sip:223@compassoffices.ak1.cloudpbx.net.nz>",
+      "rating":"",
+      "duration":{
+         "ivr":3,
+         "ring":5,
+         "talk":94,
+         "hold":0
+      }
+   },
+   {
+      "start":1597973222.403,
+      "from":"\"0272511248\" <sip:0272511248@compassoffices.ak1.cloudpbx.net.nz>",
+      "to":"\"6499653944\" <sip:6499653944@compassoffices.ak1.cloudpbx.net.nz>",
+      "agent":"\"Anmol Chugh\" <sip:223@compassoffices.ak1.cloudpbx.net.nz>",
+      "rating":"",
+      "duration":{
+         "ivr":3,
+         "ring":5,
+         "talk":30,
+         "hold":0
+      }
+   },
+   {
+      "start":1597973029.503,
+      "from":"\"0272511248\" <sip:0272511248@compassoffices.ak1.cloudpbx.net.nz>",
+      "to":"\"6499653944\" <sip:6499653944@compassoffices.ak1.cloudpbx.net.nz>",
+      "agent":"",
+      "rating":"",
+      "duration":{
+         "ivr":1,
+         "ring":0,
+         "talk":0,
+         "hold":0
+      }
+   },
+   {
+      "start":1597972692.804,
+      "from":"\"0211122955\" <sip:0211122955@compassoffices.ak1.cloudpbx.net.nz>",
+      "to":"\"6499653944\" <sip:6499653944@compassoffices.ak1.cloudpbx.net.nz>",
+      "agent":"",
+      "rating":"",
+      "duration":{
+         "ivr":0,
+         "ring":4,
+         "talk":0,
+         "hold":0
+      }
+   },
+   {
+      "start":1597971977.406,
+      "from":"\"0210701187\" <sip:0210701187@compassoffices.ak1.cloudpbx.net.nz>",
+      "to":"\"6499653944\" <sip:6499653944@compassoffices.ak1.cloudpbx.net.nz>",
+      "agent":"",
+      "rating":"",
+      "duration":{
+         "ivr":2,
+         "ring":0,
+         "talk":0,
+         "hold":0
+      }
+   },
+   {
+      "start":1597971945.509,
+      "from":"\"0210701187\" <sip:0210701187@compassoffices.ak1.cloudpbx.net.nz>",
+      "to":"\"6499653944\" <sip:6499653944@compassoffices.ak1.cloudpbx.net.nz>",
+      "agent":"",
+      "rating":"",
+      "duration":{
+         "ivr":3,
+         "ring":0,
+         "talk":0,
+         "hold":0
+      }
+   },
+   {
+      "start":1597970648.354,
+      "from":"\"02102775033\" <sip:02102775033@compassoffices.ak1.cloudpbx.net.nz>",
+      "to":"\"6499653944\" <sip:6499653944@compassoffices.ak1.cloudpbx.net.nz>",
+      "agent":"",
+      "rating":"",
+      "duration":{
+         "ivr":7,
+         "ring":0,
+         "talk":0,
+         "hold":0
+      }
+   },
+   {
+      "start":1597967818.825,
+      "from":"\"0272511248\" <sip:0272511248@compassoffices.ak1.cloudpbx.net.nz>",
+      "to":"\"6499653944\" <sip:6499653944@compassoffices.ak1.cloudpbx.net.nz>",
+      "agent":"",
+      "rating":"",
+      "duration":{
+         "ivr":10,
+         "ring":0,
+         "talk":0,
+         "hold":0
+      }
+   },
+   {
+      "start":1597967371.89,
+      "from":"\"02041447526\" <sip:02041447526@compassoffices.ak1.cloudpbx.net.nz>",
+      "to":"\"6499653944\" <sip:6499653944@compassoffices.ak1.cloudpbx.net.nz>",
+      "agent":"",
+      "rating":"",
+      "duration":{
+         "ivr":9,
+         "ring":0,
+         "talk":0,
+         "hold":0
+      }
+   },
+   {
+      "start":1597967354.4,
+      "from":"\"0273901708\" <sip:0273901708@compassoffices.ak1.cloudpbx.net.nz>",
+      "to":"\"6499653944\" <sip:6499653944@compassoffices.ak1.cloudpbx.net.nz>",
+      "agent":"",
+      "rating":"",
+      "duration":{
+         "ivr":0,
+         "ring":1,
+         "talk":0,
+         "hold":0
+      }
+   },
+   {
+      "start":1597967343.995,
+      "from":"\"0273901708\" <sip:0273901708@compassoffices.ak1.cloudpbx.net.nz>",
+      "to":"\"6499653944\" <sip:6499653944@compassoffices.ak1.cloudpbx.net.nz>",
+      "agent":"",
+      "rating":"",
+      "duration":{
+         "ivr":10,
+         "ring":0,
+         "talk":0,
+         "hold":0
+      }
+   },
+   {
+      "start":1597967187.894,
+      "from":"\"0220515620\" <sip:0220515620@compassoffices.ak1.cloudpbx.net.nz>",
+      "to":"\"6499653944\" <sip:6499653944@compassoffices.ak1.cloudpbx.net.nz>",
+      "agent":"",
+      "rating":"",
+      "duration":{
+         "ivr":9,
+         "ring":0,
+         "talk":0,
+         "hold":0
+      }
+   },
+   {
+      "start":1597967117.772,
+      "from":"\"0220515620\" <sip:0220515620@compassoffices.ak1.cloudpbx.net.nz>",
+      "to":"\"6499653944\" <sip:6499653944@compassoffices.ak1.cloudpbx.net.nz>",
+      "agent":"",
+      "rating":"",
+      "duration":{
+         "ivr":11,
+         "ring":0,
+         "talk":0,
+         "hold":0
+      }
+   },
+   {
+      "start":1597966836.97,
+      "from":"\"0220515620\" <sip:0220515620@compassoffices.ak1.cloudpbx.net.nz>",
+      "to":"\"6499653944\" <sip:6499653944@compassoffices.ak1.cloudpbx.net.nz>",
+      "agent":"",
+      "rating":"",
+      "duration":{
+         "ivr":10,
+         "ring":0,
+         "talk":0,
+         "hold":0
+      }
+   },
+   {
+      "start":1597966768.551,
+      "from":"\"02102775033\" <sip:02102775033@compassoffices.ak1.cloudpbx.net.nz>",
+      "to":"\"6499653944\" <sip:6499653944@compassoffices.ak1.cloudpbx.net.nz>",
+      "agent":"",
+      "rating":"",
+      "duration":{
+         "ivr":7,
+         "ring":0,
+         "talk":0,
+         "hold":0
+      }
+   },
+   {
+      "start":1597964735.611,
+      "from":"\"0273131119\" <sip:0273131119@compassoffices.ak1.cloudpbx.net.nz>",
+      "to":"\"6499653944\" <sip:6499653944@compassoffices.ak1.cloudpbx.net.nz>",
+      "agent":"",
+      "rating":"",
+      "duration":{
+         "ivr":9,
+         "ring":0,
+         "talk":0,
+         "hold":0
+      }
+   },
+   {
+      "start":1597963104.636,
+      "from":"\"0210485948\" <sip:0210485948@compassoffices.ak1.cloudpbx.net.nz>",
+      "to":"\"6499653944\" <sip:6499653944@compassoffices.ak1.cloudpbx.net.nz>",
+      "agent":"",
+      "rating":"",
+      "duration":{
+         "ivr":11,
+         "ring":0,
+         "talk":0,
+         "hold":0
+      }
+   },
+   {
+      "start":1597962949.676,
+      "from":"\"0226459607\" <sip:0226459607@compassoffices.ak1.cloudpbx.net.nz>",
+      "to":"\"6499653944\" <sip:6499653944@compassoffices.ak1.cloudpbx.net.nz>",
+      "agent":"",
+      "rating":"",
+      "duration":{
+         "ivr":5,
+         "ring":0,
+         "talk":0,
+         "hold":0
+      }
+   },
+   {
+      "start":1597962326.741,
+      "from":"\"0220855695\" <sip:0220855695@compassoffices.ak1.cloudpbx.net.nz>",
+      "to":"\"6499653944\" <sip:6499653944@compassoffices.ak1.cloudpbx.net.nz>",
+      "agent":"",
+      "rating":"",
+      "duration":{
+         "ivr":0,
+         "ring":2,
+         "talk":0,
+         "hold":0
+      }
+   },
+   {
+      "start":1597962316.598,
+      "from":"\"0220855695\" <sip:0220855695@compassoffices.ak1.cloudpbx.net.nz>",
+      "to":"\"6499653944\" <sip:6499653944@compassoffices.ak1.cloudpbx.net.nz>",
+      "agent":"",
+      "rating":"",
+      "duration":{
+         "ivr":10,
+         "ring":0,
+         "talk":0,
+         "hold":0
+      }
+   },
+   {
+      "start":1597962038.311,
+      "from":"\"0279088314\" <sip:0279088314@compassoffices.ak1.cloudpbx.net.nz>",
+      "to":"\"6499653944\" <sip:6499653944@compassoffices.ak1.cloudpbx.net.nz>",
+      "agent":"",
+      "rating":"",
+      "duration":{
+         "ivr":11,
+         "ring":0,
+         "talk":0,
+         "hold":0
+      }
+   },
+   {
+      "start":1597961279.994,
+      "from":"\"0220879031\" <sip:0220879031@compassoffices.ak1.cloudpbx.net.nz>",
+      "to":"\"6499653944\" <sip:6499653944@compassoffices.ak1.cloudpbx.net.nz>",
+      "agent":"",
+      "rating":"",
+      "duration":{
+         "ivr":10,
+         "ring":0,
+         "talk":0,
+         "hold":0
+      }
+   },
+   {
+      "start":1597959472.750,
+      "from":"\"02108325251\" <sip:02108325251@compassoffices.ak1.cloudpbx.net.nz>",
+      "to":"\"6499653944\" <sip:6499653944@compassoffices.ak1.cloudpbx.net.nz>",
+      "agent":"",
+      "rating":"",
+      "duration":{
+         "ivr":1,
+         "ring":0,
+         "talk":0,
+         "hold":0
+      }
+   },
+   {
+      "start":1597958670.598,
+      "from":"\"02108325251\" <sip:02108325251@compassoffices.ak1.cloudpbx.net.nz>",
+      "to":"\"6499653944\" <sip:6499653944@compassoffices.ak1.cloudpbx.net.nz>",
+      "agent":"",
+      "rating":"",
+      "duration":{
+         "ivr":8,
+         "ring":0,
+         "talk":0,
+         "hold":0
+      }
+   },
+   {
+      "start":1597958638.428,
+      "from":"\"02108325251\" <sip:02108325251@compassoffices.ak1.cloudpbx.net.nz>",
+      "to":"\"6499653944\" <sip:6499653944@compassoffices.ak1.cloudpbx.net.nz>",
+      "agent":"",
+      "rating":"",
+      "duration":{
+         "ivr":0,
+         "ring":1,
+         "talk":0,
+         "hold":0
+      }
+   },
+   {
+      "start":1597958628.422,
+      "from":"\"02108325251\" <sip:02108325251@compassoffices.ak1.cloudpbx.net.nz>",
+      "to":"\"6499653944\" <sip:6499653944@compassoffices.ak1.cloudpbx.net.nz>",
+      "agent":"",
+      "rating":"",
+      "duration":{
+         "ivr":10,
+         "ring":0,
+         "talk":0,
+         "hold":0
+      }
+   },
+   {
+      "start":1597958406.456,
+      "from":"\"0272890492\" <sip:0272890492@compassoffices.ak1.cloudpbx.net.nz>",
+      "to":"\"6499653944\" <sip:6499653944@compassoffices.ak1.cloudpbx.net.nz>",
+      "agent":"",
+      "rating":"",
+      "duration":{
+         "ivr":8,
+         "ring":0,
+         "talk":0,
+         "hold":0
+      }
+   },
+   {
+      "start":1597958242.505,
+      "from":"\"0210570707\" <sip:0210570707@compassoffices.ak1.cloudpbx.net.nz>",
+      "to":"\"6499653944\" <sip:6499653944@compassoffices.ak1.cloudpbx.net.nz>",
+      "agent":"",
+      "rating":"",
+      "duration":{
+         "ivr":4,
+         "ring":0,
+         "talk":0,
+         "hold":0
+      }
+   },
+   {
+      "start":1597958155.814,
+      "from":"\"0273890592\" <sip:0273890592@compassoffices.ak1.cloudpbx.net.nz>",
+      "to":"\"6499653944\" <sip:6499653944@compassoffices.ak1.cloudpbx.net.nz>",
+      "agent":"",
+      "rating":"",
+      "duration":{
+         "ivr":2,
+         "ring":0,
+         "talk":0,
+         "hold":0
+      }
+   },
+   {
+      "start":1597957655.828,
+      "from":"\"0211732455\" <sip:0211732455@compassoffices.ak1.cloudpbx.net.nz>",
+      "to":"\"6499653944\" <sip:6499653944@compassoffices.ak1.cloudpbx.net.nz>",
+      "agent":"",
+      "rating":"",
+      "duration":{
+         "ivr":0,
+         "ring":1,
+         "talk":0,
+         "hold":0
+      }
+   },
+   {
+      "start":1597957645.820,
+      "from":"\"0211732455\" <sip:0211732455@compassoffices.ak1.cloudpbx.net.nz>",
+      "to":"\"6499653944\" <sip:6499653944@compassoffices.ak1.cloudpbx.net.nz>",
+      "agent":"",
+      "rating":"",
+      "duration":{
+         "ivr":10,
+         "ring":0,
+         "talk":0,
+         "hold":0
+      }
+   },
+   {
+      "start":1597957582.917,
+      "from":"\"0211732455\" <sip:0211732455@compassoffices.ak1.cloudpbx.net.nz>",
+      "to":"\"6499653944\" <sip:6499653944@compassoffices.ak1.cloudpbx.net.nz>",
+      "agent":"",
+      "rating":"",
+      "duration":{
+         "ivr":8,
+         "ring":0,
+         "talk":0,
+         "hold":0
+      }
+   },
+   {
+      "start":1597957349.916,
+      "from":"\"0211004328\" <sip:0211004328@compassoffices.ak1.cloudpbx.net.nz>",
+      "to":"\"6499653944\" <sip:6499653944@compassoffices.ak1.cloudpbx.net.nz>",
+      "agent":"",
+      "rating":"",
+      "duration":{
+         "ivr":3,
+         "ring":0,
+         "talk":0,
+         "hold":0
+      }
+   },
+   {
+      "start":1597957278.321,
+      "from":"\"0211004328\" <sip:0211004328@compassoffices.ak1.cloudpbx.net.nz>",
+      "to":"\"6499653944\" <sip:6499653944@compassoffices.ak1.cloudpbx.net.nz>",
+      "agent":"",
+      "rating":"",
+      "duration":{
+         "ivr":13,
+         "ring":0,
+         "talk":0,
+         "hold":0
+      }
+   },
+   {
+      "start":1597956569.556,
+      "from":"\"0211193999\" <sip:0211193999@compassoffices.ak1.cloudpbx.net.nz>",
+      "to":"\"6499653944\" <sip:6499653944@compassoffices.ak1.cloudpbx.net.nz>",
+      "agent":"",
+      "rating":"",
+      "duration":{
+         "ivr":9,
+         "ring":0,
+         "talk":0,
+         "hold":0
+      }
+   },
+   {
+      "start":1597953143.305,
+      "from":"\"0273901708\" <sip:0273901708@compassoffices.ak1.cloudpbx.net.nz>",
+      "to":"\"6499653944\" <sip:6499653944@compassoffices.ak1.cloudpbx.net.nz>",
+      "agent":"",
+      "rating":"",
+      "duration":{
+         "ivr":7,
+         "ring":0,
+         "talk":0,
+         "hold":0
+      }
+   }
+]
